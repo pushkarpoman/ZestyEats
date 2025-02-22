@@ -4,15 +4,17 @@ import ItemsDisplay from '../components/ItemsDisplay'
 import Chains from '../components/Chains'
 import FirmCollections from '../components/FirmCollections'
 import ProductMenu from '../components/ProductMenu'
+import HomePage from './HomePage'
 
 const LandingPage = () => {
   return (
     <div>
         <TopBar />
         <div className="landingSection">
-        <ItemsDisplay />
+        {/* <ItemsDisplay />
         <Chains />
-        <FirmCollections />
+        <FirmCollections /> */}
+        <HomePage/>
         </div>
     </div>
   )
