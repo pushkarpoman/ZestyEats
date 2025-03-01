@@ -11,7 +11,7 @@ const HomePage = () => {
       rating: 4.5,
       price: 350,
       category: "North Indian",
-      imageUrl: "/api/placeholder/300/200",
+      imageUrl: "https://shemins.scdn2.secure.raxcdn.com/wp-content/uploads/2017/05/Shemins-Butter-Chicken-LR-537x537.jpg",
       deliveryTime: "30-35 min"
     },
     {
@@ -21,7 +21,7 @@ const HomePage = () => {
       rating: 4.3,
       price: 299,
       category: "Italian",
-      imageUrl: "/api/placeholder/300/200",
+      imageUrl: "https://www.moulinex-me.com/medias/?context=bWFzdGVyfHJvb3R8MTQzNTExfGltYWdlL2pwZWd8YUdObEwyaG1aQzh4TlRrMk9EWXlOVGM0TmpreE1DNXFjR2N8MmYwYzQ4YTg0MTgzNmVjYTZkMWZkZWZmMDdlMWFlMjRhOGIxMTQ2MTZkNDk4ZDU3ZjlkNDk2MzMzNDA5OWY3OA",
       deliveryTime: "25-30 min"
     },
     {
@@ -31,7 +31,7 @@ const HomePage = () => {
       rating: 4.7,
       price: 599,
       category: "Japanese",
-      imageUrl: "/api/placeholder/300/200",
+      imageUrl: "https://asianinspirations.com.au/wp-content/uploads/2018/12/R01459_Easy-Sushi-Rolls-2-619x412.jpg",
       deliveryTime: "35-40 min"
     }
   ];
